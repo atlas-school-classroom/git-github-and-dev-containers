@@ -1,6 +1,0 @@
-@ScriptureApi_HostAddress = http://localhost:5271
-
-GET {{ScriptureApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
